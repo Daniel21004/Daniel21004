@@ -6,7 +6,6 @@
 - 📚 Studying Computer Science Engineering at Universidad Nacional de Loja 
 - 🌱 I’m currently learning : Android development with kotlin and Figma 
 - ❤️ My favorite language: Java
-- I like 
 - 📃 Ask me about: Java and Spring 
 - 😎 Interesting: 
     - 🏀 Basquet 
