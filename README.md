@@ -55,7 +55,7 @@
 
 </br>
 
-# 📌 Pin projects
+# 📌 Projects on course
 <!--* Aqui los proyectos pineados -->
 
 </br>
