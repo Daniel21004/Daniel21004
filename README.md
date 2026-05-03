@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"></td>
-    <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/react.svg"></td>
+    <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></td>
   </tr>
 </table>
 
@@ -62,8 +62,3 @@
 # Connect with me 🤝
 <a target="_blank" href="https://www.linkedin.com/in/jorge-daniel-ortega/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
-
-
----
-</br>
-Last Updated On: 29/08/2023
