@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<img src ='https://raw.githubusercontent.com/Daniel21004/Daniel21004/main/Banner.png'>
+<img src ='https://raw.githubusercontent.com/Daniel21004/Daniel21004/main/Data Analytics.jpg'>
 
 # 💻 About me 
 - 📚 Graduated as Computer Science Engineer at Universidad Nacional de Loja 
