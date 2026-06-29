@@ -22,13 +22,19 @@
 <table>
   <tr>
     <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"></td>
+    <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg"></td>
+    <td><img width="56px" src="https://github.com/Daniel21004/icons/blob/main/icons/powerbi.png"></td>
+    <td><img width="32px" src="https://github.com/Daniel21004/icons/blob/main/icons/excel.png"></td>
     <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></td>
+    <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"></td>
+    
   </tr>
 </table>
 
 ### Databases
 <table>
   <tr>
+    <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"></td>
     <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg"></td>
     <td><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"></td>
   </tr>
